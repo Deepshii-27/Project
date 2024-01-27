@@ -2,10 +2,10 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 100vh; /* Ensure the body takes the full height of the viewport */
+  height: 100vh;
   background: url('./pexels-anna-shvets-3962285.jpg') center/cover;
   margin: 0;
-  padding: 20px; /* Adjust the padding as needed */
+  padding: 20px;
   font-family: courier, monospace;
 }
 ubq-spdn-tgr
